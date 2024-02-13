@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning ...
 
-Coursera Certifications. Google Cybersecurity Professional Certificate, Python for Everybody Specialization - Programming for Everybody (Getting Started with Python), Digital Footprint, Cybersecurity Attack and Defense Fundamentals Specialization - Digital Forensics Essentials (DFE), Google UX Design Professional Certificate - Conduct UX Research and Test Early Concepts.
-
+Coursera Certifications
+In-Progress
+  - Google Cybersecurity Professional Certificate
+  - Python for Everybody Specialization - Programming for Everybody (Getting Started with Python)
+  - Digital Footprint, Cybersecurity Attack and Defense Fundamentals Specialization - Digital Forensics Essentials (DFE)
+  - Google UX Design Professional Certificate - Conduct UX Research and Test Early Concepts.
+Latest Cert Achievements
+  - Google Foundations of Cybersecurity
+----
 Cisco Network Academy - Skills for all - My Learning
 In-Progress
   - Networking Basics
@@ -28,6 +35,31 @@ In-Progress
   - English for IT 1
 Latest Achievements
   - Getting Started with Cisco Packet Tracer
+----
+Hacker X - Fundamental Knowledge of Ethical Hacking
+In-Progress
+  - Surfing Anonymously
+  - Hiding Messages
+  - Social Media Hacking
+  - Credit and Debit Card Fraud(s)
+  - Keyboard Spying
+  - WiFi Hacking - WEP Cracking
+  - WiFi Hacking - WPA - WPA2 Cracking
+  - Network Spying
+  - Database Hacking
+  - Android Hacking
+  - Bringing down a website
+  - Cross-Site Scripting
+  - Make your data safe
+  - Hacking Passwords
+  - WordPress Scanning
+  - Vulnerability
+  - Scanning and Reporting
+  - Frequently Asked Interview Questions
+Latest Achievements
+  - Know the OS
+  - Hack the MAC
+  - Gathering Information
 
 ----
 
@@ -96,7 +128,13 @@ This certificate program is a catalyst for continuous exploration and learning, 
 # Certificate
 Currently enrolled in Google Cybersecurity Professional Certificate (Start date 1/18/2024)
 
+## Certificate Images
 
+
+----
+
+
+----
 
 ##### Big thanks to ChatGPT 3.5 for its invaluable assistance! With its lightning-fast ideas and impeccable word arrangement, it enables me to focus on tasks, and coursework learning without getting bogged down in endless wordplay. Truly a game-changer in efficiency and productivity! 
 
