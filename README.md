@@ -61,7 +61,7 @@ MAC Spoofing, What is MAC?, Why change the MAC address? Changing MAC using Kali,
 Gathering Information, Information Gathering - Why? - Footprinting is the first step in Hacking, Techniques to gather information, Some more useful techniques, Using Kali tools to gather information, Using Kali - Part 2, Real Life Facts
 ![HackerX-GatheringInformationCertificationCourse](https://github.com/briannokes/briannokes/assets/158811758/92c3a624-1263-45bd-9d97-c86c4db1c7e6)
 
-In my most recent role at Prime Electric, I played a crucial role in fiber OSP installation and splicing for the Microsoft campus vault(s), showcasing my expertise in handling complex projects with high-security level access. My tenure at NetCom, Inc. involved implementing infrastructure for Boeing Data Center testing requirements, demonstrating my ability to provide detailed documentation for test results and work in high-security environments.
+In my most recent role at Prime Electric, I played a crucial role in fiber OSP installation and splicing and at Microsoft campus, showcasing my expertise in handling complex projects with high-security level access. My tenure at NetCom, Inc. involved implementing infrastructure for Boeing Data Center testing requirements, demonstrating my ability to provide detailed documentation for test results and work in high-security environments.
 
 As a journeyman technician, I have a diverse skill set that includes proficiency in wireless access points, fiber optics, and AWS Welder Certification. I am currently seeking new opportunities to contribute to a dynamic and innovative team that values quality, collaboration, and customer satisfaction.
 
