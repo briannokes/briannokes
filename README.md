@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -12,6 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning ...
+Coursera Certifications. Google Cybersecurity Professional Certificate, Python for Everybody Specialization - Programming for Everybody (Getting Started with Python), Digital Footprint, Cybersecurity Attack and Defense Fundamentals Specialization - Digital Forensics Essentials (DFE), Google UX Design Professional Certificate - Conduct UX Research and Test Early Concepts.
+
+Cisco Network Academy - Skills for all - My Learning
+In-Progress
+  - Networking Basics
+  - Network Technician
+  - Networking Devices and Initial Configuration
+  - Introduction to Cybersecurity
+  - Cyber Threat Management
+  - Endpoint Security
+  - Data Analytics Essentials
+  - English for IT 1
+Latest Achievements
+  - Getting Started with Cisco Packet Tracer
+
+----
+
 
 # About Me
 
@@ -70,6 +88,8 @@ As I approach the completion of the Google Cybersecurity Professional Certificat
 It allows me to keep researching and learning new things, which I find most interesting, it also allows me to stay up to date on security events. It will help me to use my mind more in the way that I am more comfortable learning, researching, and security networks, computers, firewalls, and VMs.
 
 This certificate program is a catalyst for continuous exploration and learning, aligning seamlessly with my inherent curiosity. By delving into new areas of knowledge, I anticipate staying at the forefront of emerging security events. Beyond this, the program holds the potential to enrich my cognitive processes, allowing me to delve deeper into my preferred modes of learning, researching, and understanding intricate aspects of security networks, computers, firewalls, and virtual machines. In essence, I envision this program as a transformative tool that not only keeps me informed but also enhances my proficiency in areas I am deeply passionate about.
+
+
 
 
 # Certificate
