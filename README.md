@@ -135,9 +135,3 @@ Currently enrolled in Google Cybersecurity Professional Certificate (Start date 
 
 
 ----
-
-##### Big thanks to ChatGPT 3.5 for its invaluable assistance! With its lightning-fast ideas and impeccable word arrangement, it enables me to focus on tasks, and coursework learning without getting bogged down in endless wordplay. Truly a game-changer in efficiency and productivity! 
-
-##### Microsoft Office products, YouTube, and Google search engine. 
-
-##### I will keep adding more sources here as time goes on, please be patient with me, working on the future. Thank you for your time and patience.
