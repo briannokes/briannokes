@@ -33,16 +33,14 @@ Today, with the advent of virtual machines and other sandbox environments, I con
 I thrive in challenging environments and am passionate about adopting new technologies to solve complex problems and enhance efficiency.
 
 Currently pursuing the Google Cybersecurity Professional Certificate, I am committed to continuous learning and staying at the forefront of industry trends. My recent completion of the Foundations of Cybersecurity course on Coursera is a testament to my dedication to expanding my knowledge. You can verify my Coursera achievements [here](https://coursera.org/verify/AQM35Z3XBGM2).
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
+![Coursera-GoogleFoundationsOfCybersecurity](https://github.com/briannokes/briannokes/assets/158811758/454e1c55-6857-468b-8fa6-ca99f559eef0)
 
 These are the other courses that I am working on, in conjunction with the above; Python for Everybody Specialization - Programming for Everybody (Getting Started with Python), Digital Footprint, Cybersecurity Attack and Defense Fundamentals Specialization - Digital Forensics Essentials (DFE), Google UX Design Professional Certificate - Conduct UX Research and Test Early Concepts.
 
 I recently completed a Knowledge Check in Cisco Networking Devices and Initial Configuration, marking a significant step in my journey to enhance my networking skills. While I haven't been actively using Cisco Packet Tracer or engaging with the Academy training for some time, I've reignited my passion for learning and exploration in the networking realm.
+![Cisco Networking Academy - My Knowledge Check Result for Networking Devices And Initial Configuration](https://github.com/briannokes/briannokes/assets/158811758/4c2882d5-ef60-452a-9af0-491e858bc4a4)
 
-
-The catalyst for this rejuvenation? The all-new Skills for All initiative by Cisco Networking Academy, featuring the latest version of Cisco Packet Tracer – 8.2.1! What's even better? It's now compatible with Linux, opening up a world of possibilities for seamless simulation and visualization.
+The catalyst for this rejuvenation? The all-new Skills for All initiative by Cisco Networking Academy features the latest version of Cisco Packet Tracer – 8.2.1! What's even better? It's now compatible with Linux, opening up a world of possibilities for seamless simulation and visualization.
 
 But wait, there's more! I've also embraced the cutting-edge CyberSecurity Essentials Virtual Machine for Oracle VirtualBox. This dynamic resource houses a plethora of Cisco Networking Academy Lab VM Workstations, catering to various cybersecurity domains such as Cybersecurity Essentials, Endpoint Security, and Network Defense.
 
@@ -52,17 +50,16 @@ I've already installed Cisco Packet Tracer 8.2.1 on a Linux Ubuntu environment, 
 
 Here's to embracing change, seizing opportunities, and continuously evolving in the ever-dynamic world of networking and cybersecurity!
 
-I am also working with Hacker X locking down more certifications:
+I am also working with Hacker X to lock down more certifications:
 
-Know the OS, Installation. Overview of Kali Linux, Basic Linux Commands, Common Networking Commands, Getting you ready for Scripting, IP Sweeping Bash Script.
+Know the OS and installation. Overview of Kali Linux, Basic Linux Commands, Common Networking Commands, Getting you ready for Scripting, IP Sweeping Bash Script.
+![HackerX-KnowTheOS-CertificationCourse](https://github.com/briannokes/briannokes/assets/158811758/9e98911e-38d8-4fbe-9109-662e32779d42)
 
-
-MAC Spoofing, What is MAC?, Why change the MAC address?, Changing MAC using Kali, Changing MAC using Windows, Preventing MAC Spoofing, Some Facts
-
+MAC Spoofing, What is MAC?, Why change the MAC address? Changing MAC using Kali, Changing MAC using Windows, Preventing MAC Spoofing, Some Facts
+![HackerX-HackTheMAC-CertificationCourse](https://github.com/briannokes/briannokes/assets/158811758/69d564c4-b9c1-4613-95c1-3fea418705a2)
 
 Gathering Information, Information Gathering - Why? - Footprinting is the first step in Hacking, Techniques to gather information, Some more useful techniques, Using Kali tools to gather information, Using Kali - Part 2, Real Life Facts
-
-
+![HackerX-GatheringInformationCertificationCourse](https://github.com/briannokes/briannokes/assets/158811758/92c3a624-1263-45bd-9d97-c86c4db1c7e6)
 
 In my most recent role at Prime Electric, I played a crucial role in fiber OSP installation and splicing for the Microsoft campus vault(s), showcasing my expertise in handling complex projects with high-security level access. My tenure at NetCom, Inc. involved implementing infrastructure for Boeing Data Center testing requirements, demonstrating my ability to provide detailed documentation for test results and work in high-security environments.
 
