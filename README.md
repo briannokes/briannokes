@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning ...
+
 Coursera Certifications. Google Cybersecurity Professional Certificate, Python for Everybody Specialization - Programming for Everybody (Getting Started with Python), Digital Footprint, Cybersecurity Attack and Defense Fundamentals Specialization - Digital Forensics Essentials (DFE), Google UX Design Professional Certificate - Conduct UX Research and Test Early Concepts.
 
 Cisco Network Academy - Skills for all - My Learning
