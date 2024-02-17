@@ -10,6 +10,6 @@ My collection of coursework showcased on Coursera, demonstrating my skills and e
 
 I am also actively developing Step-by-Step Guides. Check out my GitHub projects:
 
-[GitHub Coursera Portfolio Showcase](https://briannokes.github.io/Coursera/)
+[Coursera Portfolio Showcase](https://briannokes.github.io/Coursera/)
 
 [Step-By-Step Guides](https://briannokes.github.io/Step-by-Step-Guides/)
