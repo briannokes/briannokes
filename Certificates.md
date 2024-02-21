@@ -75,7 +75,7 @@ subtitle:
   <img src="{{ 'assets/img/Cert_BrianNokesHackerX-SurfingAnonymouslyCertificationCourse.png' | relative_url }}" alt="Cert_BrianNokes HackerX Surfing Anonymously Certification Course" />
 
 <br>
-![[Cert_BrianNokesHackerX-HidingMessagesCertificationCourse.png]]
+
 <br>
 <span> 
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left">
@@ -116,9 +116,8 @@ subtitle:
 <br>
   <img src="{{ 'assets/img/Cert_BrianNokesPhilipsProntoInstallerAccreditationCertificateLevel2.PNG' | relative_url }}" alt="Cert_BrianNokes Philips Pronto Installer Accreditation Certificate Level 2" />
 <br>
-
+<br>
 <h2>Panasonic</h2>
-
 <br>
 <br>
   <img src="{{ 'assets/img/Cert_BrianNokes_PanasonicTDA50G_IP_NetworkingTechnologyTIP101.PNG' | relative_url }}" alt="Cert_BrianNokes Panasonic TDA50G IP Networking Technology TIP 101" />
@@ -136,6 +135,7 @@ subtitle:
 <br>
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
+<br>
 <br>
 <span> 
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
