@@ -9,6 +9,7 @@ subtitle:
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
 <br>
+
 <span> 
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
 <span style="font-size:30pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">Recent Training Experience</span> 
@@ -30,12 +31,48 @@ subtitle:
 <h1>Hacker X</h1>
 
 <br>
-![[HackerX-GatheringInformationCertificationCourse.png]]
+![[HackerX-KnowTheOS-CertificationCourse.png]]
+<br>
+<span> 
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
+<span style="font-size:14pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">1. Know the OS</span> 
+</p> 
+</span>
 <br>
 ![[HackerX-HackTheMAC-CertificationCourse.png]]
 <br>
-![[HackerX-KnowTheOS-CertificationCourse.png]]
+<span> 
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
+<span style="font-size:14pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">2. Hack the MAC</span> 
+</p> 
+</span>
 
+<br>
+![[HackerX-GatheringInformationCertificationCourse.png]]
+<br>
+<span> 
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
+<span style="font-size:14pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">3. Gathering Information</span> 
+</p> 
+</span>
+<br>
+![[Cert_BrianNokesHackerX-SurfingAnonymouslyCertificationCourse.png]]
+<br>
+<span> 
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
+<span style="font-size:14pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">4. Surfing Anonymously</span> 
+</p> 
+</span>
+<br>
+![[Cert_BrianNokesHackerX-HidingMessagesCertificationCourse.png]]
+<br>
+<span> 
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
+<span style="font-size:14pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">5. Hiding Messages</span> 
+</p> 
+</span>
+
+<br>
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
 <br>
