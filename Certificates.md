@@ -34,7 +34,7 @@ subtitle:
 <br>
 <span>
 
-<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left">
 <span style="font-size:14pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">1. Know the OS</span>
 </p> 
 </span>
@@ -45,7 +45,7 @@ subtitle:
 
 <br>
 <span> 
-<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left">
 <span style="font-size:14pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">2. Hack the MAC</span> 
 </p> 
 </span>
@@ -56,7 +56,7 @@ subtitle:
 
 <br>
 <span> 
-<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left">
 <span style="font-size:14pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">3. Gathering Information</span> 
 </p> 
 </span>
@@ -67,7 +67,7 @@ subtitle:
 
 <br>
 <span> 
-<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left">
 <span style="font-size:14pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">4. Surfing Anonymously</span> 
 </p> 
 </span>
@@ -78,7 +78,7 @@ subtitle:
 ![[Cert_BrianNokesHackerX-HidingMessagesCertificationCourse.png]]
 <br>
 <span> 
-<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left">
 <span style="font-size:14pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">5. Hiding Messages</span> 
 </p> 
 </span>
@@ -131,9 +131,9 @@ subtitle:
 
 <h2>Stratex Integrated Solutions Inc</h2>
 <br>
-![[Cert_MAXxessUniversityAccessControlInstallation-and-Integration.jpg]]
-<br><br>
-
+<br>
+  <img src="{{ 'assets/img/Cert_BrianNokesMAXxessUniversityAccessControlInstallation-and-Integration.jpg' | relative_url }}" alt="Cert_BrianNokes MAXxess University Access Control Installation and Integration" />
+<br>
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
 <br>
@@ -148,20 +148,25 @@ subtitle:
 
 <h2>Hight School</h2>
 <br>
-![[Cert_BrianNokes_GardenGroveHighSchoolDiploma1998.jpg]]
 <br>
-![[Cert_BrianNokes_PersonalRecordGardenGroveVsRancho1997.jpg]]
-
+  <img src="{{ 'assets/img/Cert_BrianNokes_GardenGroveHighSchoolDiploma1998.jpg' | relative_url }}" alt="Cert_BrianNokes Garden Grove High School Diploma 1998" />
+<br>
+<br>
+  <img src="{{ 'assets/img/Cert_BrianNokes_PersonalRecordGardenGroveVsRancho1997.jpg' | relative_url }}" alt="Cert_BrianNokes Personal Record Garden Grove Vs Rancho 1997" />
+<br>
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
 <br>
 
 <h2>Coastline College</h2>
 <br>
-![[Cert_BrianNokes_ExtendedOppportunityProgramsServicesGPA3-75_Fall1999_May-8-2000.jpg]]
 <br>
-
-![[Cert_BrianNokes_SAC_MeritScholarshipMay-4-2000.jpg]]
+  <img src="{{ 'assets/img/Cert_BrianNokes_ExtendedOppportunityProgramsServicesGPA3-75_Fall1999_May-8-2000.jpg' | relative_url }}" alt="Cert_BrianNokes Extended Oppport unity Programs Services GPA 3.75 Fall 1999" />
+<br>
+<br>
+<br>
+  <img src="{{ 'assets/img/Cert_BrianNokes_SAC_MeritScholarshipMay-4-2000.jpg' | relative_url }}" alt="Cert_BrianNokes SAC Merit Scholarship" />
+<br>
 <br>
 
 <br>
@@ -171,11 +176,14 @@ subtitle:
 <h2>Fullerton College</h2>
 
 <br>
-![[Cert_FullertonCollegeAWS_WelderPerformanceQualificationFCAW3G4G.jpg]]
 <br>
-![[Cert_FullertonCollegeAWS_WelderPerformanceQualificationFCAW3G4G-2.jpg]]
+  <img src="{{ 'assets/img/Cert_BrianNokesFullertonCollegeAWS_WelderPerformanceQualificationFCAW3G4G.jpg' | relative_url }}" alt="Cert_BrianNokes Fullerton College AWS Welder Performance Qualification FCAW 3G 4G" />
 <br>
-![[Cert_FullertonCollegeAWS_WelderPerformanceQualificationSMAW3G4G.jpg]]
+<br>
+  <img src="{{ 'assets/img/Cert_BrianNokesFullertonCollegeAWS_WelderPerformanceQualificationFCAW3G4G-2.jpg' | relative_url }}" alt="Cert_BrianNokes Fullerton College AWS Welder Performance Qualification FCAW 3G 4G - 2" />
+<br>
+<br>
+  <img src="{{ 'assets/img/Cert_BrianNokesFullertonCollegeAWS_WelderPerformanceQualificationSMAW3G4G.jpg' | relative_url }}" alt="Cert_BrianNokes Fullerton College AWS Welder Performance Qualification SMAW 3G 4G" />
 <br>
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
