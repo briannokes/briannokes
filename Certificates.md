@@ -22,7 +22,7 @@ subtitle:
 
 <h1>Coursera Google Cybersecurity Professional</h1>
 <br>
-![[CourseraAQM35Z3XBGM2_GoogleCybersecurityProfessionalCertificateFoundationsOfCybersecurity2-2-2024.pdf]]
+  <img src="{{ 'assets/img/Cert_BrianNokesCourseraGoogleFoundationsOfCybersecurity.png' | relative_url }}" alt="assets/img/Cert_BrianNokes Coursera Google Foundations Of Cybersecurity" />
 
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
