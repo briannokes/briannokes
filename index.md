@@ -15,7 +15,9 @@ I am also actively developing Step-by-Step Guides. Check out my GitHub projects:
 <br>
 <span>
 
-<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left"><span style="font-size:14pt;font-family:Arial;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">Step-by-Step Guides</span> 
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left">
+<span style="font-size:14pt;font-family:Arial;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap"><a herf="https://briannokes.github.io/Step-by-Step-Guides/"Step-by-Step Guides</a>
+</span> 
 </p> 
 </span>
 <br>
@@ -23,7 +25,9 @@ I am also actively developing Step-by-Step Guides. Check out my GitHub projects:
 <br>
 <br>
 <span> 
-<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left"><span style="font-size:14pt;font-family:Arial;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">Poems</span> 
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left">
+<span style="font-size:14pt;font-family:Arial;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap"><a href="https://briannokes.github.io/poems/">Poems</a>
+</span> 
 </p> 
 </span>
 <br>
