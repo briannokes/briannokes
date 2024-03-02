@@ -149,7 +149,7 @@ hover-col: '#0085A1'
 footer-col: '#2A2823'
 # "#EAEAEA"
 footer-text-col: '#777777'
-footer-link-col: '#B5A68C'
+footer-link-col: '#777777' #B5A68C
 # "#404040"
 footer-hover-col: '#0085A1'
 
