@@ -53,11 +53,11 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 a {
-  color: {{ site.link-col | default: "#777777" }}; /*#008AFF  */
+  color: {{ site.link-col | default: "#777777" }}; /*#008AFF  - blue*/
 }
 a:hover,
 a:focus {
-  color: {{ site.hover-col | default: "#777777" }}; /*#0085A1  */
+  color: {{ site.hover-col | default: "#0085A1" }}; /*#0085A1  */
 }
 blockquote {
   color: #808080;
