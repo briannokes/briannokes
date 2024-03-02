@@ -52,7 +52,7 @@ h4 {
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
-a {
+a:focus {
   color: {{ site.link-col | default: "#B5A68C" }}; /*#008AFF  - blue*/
 }
 a:hover,
