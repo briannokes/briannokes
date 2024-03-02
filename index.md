@@ -12,14 +12,11 @@ I am actively developing. Check out my GitHub projects:
 
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left"><span style="font-size:14pt"><a href="https://briannokes. github.io/Coursera/">Coursera Portfolio Showcase</a></span></p>
 <br>
-<br>
 <span>
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left"><span style="font-size:14pt"><a href="CiscoNetworkingAcademyMyKnowledgeCheckResult">Cisco Networking Academy - My Knowledge Check Results</a></span></p>
 <br>
-<br>
 <span>
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left"><span style="font-size:14pt"><a href="https://briannokes.github.io/Step-by-Step-Guides/">Step-by-Step Guides</a></span></p>
-<br>
 <br>
 <span>
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:left"><span style="font-size:14pt"><a href="https://briannokes.github.io/Poems/">Poems</a></span></p>
