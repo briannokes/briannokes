@@ -96,6 +96,7 @@ subtitle:
 </span>
 <br>
   <img src="{{ 'assets/img/Cert_BrianNokesHackerX-SocialMediaHackingCertificationCourse.png' | relative_url }}" alt="Cert_BrianNokes HackerX Social Media Hacking Certification Course" />
+
 <br>
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
@@ -126,6 +127,9 @@ subtitle:
 <br>
 <br>
   <img src="{{ 'assets/img/Cert_BrianNokesPhilipsProntoInstallerAccreditationCertificateLevel2.PNG' | relative_url }}" alt="Cert_BrianNokes Philips Pronto Installer Accreditation Certificate Level 2" />
+<br>
+<br>
+<span style="display:block; background-color:red; width:100%; height:2px;"></span>
 <br>
 <br>
 <h2>Panasonic</h2>
