@@ -28,7 +28,7 @@ subtitle:
 <h2>Coursera Google Play It Safe: Manage Security Risks</h2>
 <br>
   <img src="{{ 'assets/img/Cert_BrianNokesCourseraGooglePlayItSafe-ManageSecurityRisks.png' | relative_url }}" alt="Cert_BrianNokes Coursera Google Play It Safe: Manage Security Risks" />
-  
+
 <br>
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
@@ -96,6 +96,7 @@ subtitle:
 </span>
 <br>
   <img src="{{ 'assets/img/Cert_BrianNokesHackerX-SocialMediaHackingCertificationCourse.png' | relative_url }}" alt="Cert_BrianNokes HackerX Social Media Hacking Certification Course" />
+<br>
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
 <br>
