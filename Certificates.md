@@ -23,6 +23,7 @@ subtitle:
 <h2>Coursera Google Cybersecurity Professional</h2>
 <br>
   <img src="{{ 'assets/img/Cert_BrianNokesCourseraGoogleFoundationsOfCybersecurity.png' | relative_url }}" alt="Cert_BrianNokes Coursera Google Foundations Of Cybersecurity" />
+  
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
 <br>
