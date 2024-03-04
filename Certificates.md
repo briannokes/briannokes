@@ -131,7 +131,6 @@ subtitle:
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
 <br>
-<br>
 <h2>Panasonic</h2>
 <br>
   <img src="{{ 'assets/img/Cert_BrianNokes_PanasonicTDA50G_IP_NetworkingTechnologyTIP101.PNG' | relative_url }}" alt="Cert_BrianNokes Panasonic TDA50G IP Networking Technology TIP 101" />
