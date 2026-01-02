@@ -6,7 +6,7 @@ subtitle:
 
 <h1 style="text-align: Center;">About Me</h1>
 <br>
-Welcome to my corner of the web. As a dedicated and skilled journeyman technician based in Redmond, Washington, with over six years of experience in fiber and data infrastructure. I thrive in challenging environments and am passionate about adopting new technologies to solve complex problems and enhance efficiency.
+Welcome to my corner of the web. As a dedicated and skilled journeyman technician based in Redmond, Washington, with over six years (2003-Present) of experience in fiber and data infrastructure. I thrive in challenging environments and am passionate about adopting new technologies to solve complex problems and enhance efficiency.
 
 I'm passionate about, currently pursuing and diligently working towards obtaining my Google Cybersecurity Professional Certificate to further strengthen my knowledge and skills in the Cybersecurity field. I am enthusiastic about the opportunity to leverage my experiences, including my experience from PCD and P3 as a Senior Test Engineer Field interoperability Testing (FIT), and contribute to the dynamic and innovative environment. I am committed to continuous learning and staying at the forefront of industry trends.
 
